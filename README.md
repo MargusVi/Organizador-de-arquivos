@@ -1,0 +1,1 @@
+Programa feito em Python para organizar os arquivos de uma pasta em diversas pastas separadas por tipo de arquivo.
